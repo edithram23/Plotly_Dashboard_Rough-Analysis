@@ -1,0 +1,24 @@
+from bs4 import BeautifulSoup
+import requests
+url = ('https://openweathermap.org/city/1264527')
+
+response = requests.get(url)
+html = response.content
+
+soup = BeautifulSoup(html, 'html.parser')
+
+print(soup)
+
+
+#location = soup.find("span", class_="locatio").text
+#date_time = soup.find("span", class_="date-time").text
+temperature_element = soup.find("span", class_="heading")
+temperature = temperature_element.text.strip() if temperature_element else ''
+# weather_description = soup.find("li", class_="weather-description").text
+# wind_speed_direction = soup.find("li", class_="wind-speed-direction").text
+# pressure = soup.find("li", class_="pressure").text
+# humidity = soup.find("li", class_="humidity").text
+# dew_point = soup.find("li", class_="dew-point").text
+# visibility = soup.find("li", class_="visibility").text
+
+print(temperature)

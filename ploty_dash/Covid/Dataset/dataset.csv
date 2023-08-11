@@ -1,0 +1,238 @@
+Name,WHO Region,Cases - cumulative total,Cases - cumulative total per 100000 population,Cases - newly reported in last 7 days,Cases - newly reported in last 7 days per 100000 population,Cases - newly reported in last 24 hours,Deaths - cumulative total,Deaths - cumulative total per 100000 population,Deaths - newly reported in last 7 days,Deaths - newly reported in last 7 days per 100000 population,Deaths - newly reported in last 24 hours,ISO
+Global,,767726861,9849.546293176105,168668,2.1639249042471977,0,6948764,89.14911822833247,864,0.0110846818440343,0, 
+United States of America,Americas,103436829,31249.547,0,0.0,0,1127152,340.527,0,0.0,0,USA
+China,Western Pacific,99292081,6748.655,3144,0.214,0,121490,8.257,25,0.002,0,CHN
+India,South-East Asia,44994351,3260.45,254,0.018,0,531908,38.544,3,0.0,0,IND
+France,Europe,38989382,59947.365,0,0.0,0,167923,258.187,0,0.0,0,FRA
+Germany,Europe,38435774,46215.335,0,0.0,0,174807,210.189,0,0.0,0,DEU
+Brazil,Americas,37671420,17722.772,15370,7.231,0,703964,331.185,245,0.115,0,BRA
+Japan,Western Pacific,33803572,26727.165,0,0.0,0,74694,59.058,0,0.0,0,JPN
+Republic of Korea,Western Pacific,32256154,62915.285,124548,242.93,0,35071,68.406,54,0.105,0,KOR
+Italy,Europe,25897801,43422.46,1372,2.3,0,190868,320.026,13,0.022,0,ITA
+The United Kingdom,Europe,24639160,36294.904,176,0.259,0,227739,335.473,0,0.0,0,GBR
+Russian Federation,Europe,22963688,15735.617,4490,3.077,0,399649,273.855,86,0.059,0,RUS
+Türkiye,Europe,17004677,20162.278,0,0.0,0,101419,120.252,0,0.0,0,TUR
+Spain,Europe,13970616,29515.834,0,0.0,0,121724,257.167,0,0.0,0,ESP
+Viet Nam,Western Pacific,11620623,11938.353,359,0.369,0,43206,44.387,0,0.0,0,VNM
+Australia,Western Pacific,11508834,45132.888,0,0.0,0,21917,85.949,232,0.91,0,AUS
+Argentina,Americas,10044957,22225.434,0,0.0,0,130472,288.682,0,0.0,0,ARG
+Netherlands,Europe,8616175,49496.671,0,0.0,0,22986,132.046,0,0.0,0,NLD
+Mexico,Americas,7633355,5920.416,15,0.012,0,334336,259.31,0,0.0,0,MEX
+Iran (Islamic Republic of),Eastern Mediterranean,7612537,9063.305,123,0.146,0,146297,174.178,5,0.006,0,IRN
+Indonesia,South-East Asia,6812127,2490.508,182,0.067,0,161879,59.183,9,0.003,0,IDN
+Poland,Europe,6517918,17171.332,57,0.15,0,119626,315.152,2,0.005,0,POL
+Colombia,Americas,6373599,12526.016,1207,2.372,0,142836,280.715,29,0.057,0,COL
+Austria,Europe,6081287,68320.9,308,3.46,0,22534,253.161,0,0.0,0,AUT
+Portugal,Europe,5593092,54323.441,0,0.0,0,26899,261.259,0,0.0,0,PRT
+Ukraine,Europe,5517487,12616.082,0,0.0,0,109891,251.273,0,0.0,0,UKR
+Greece,Europe,5336533,49787.756,0,0.0,0,37194,347.005,0,0.0,0,GRC
+Chile,Americas,5288184,27663.363,161,0.842,0,61577,322.119,11,0.058,0,CHL
+Malaysia,Western Pacific,5122019,15825.308,0,0.0,0,37152,114.787,25,0.077,0,MYS
+Israel,Europe,4829214,55793.324,258,2.981,0,12568,145.202,1,0.012,0,ISR
+Belgium,Europe,4801724,41672.805,24,0.208,0,34375,298.331,0,0.0,0,BEL
+Thailand,South-East Asia,4752422,6808.63,859,1.231,0,34371,49.242,43,0.062,0,THA
+Canada,Americas,4688830,12423.324,0,0.0,0,52860,140.056,0,0.0,0,CAN
+Czechia,Europe,4642779,43415.05,60,0.561,0,42811,400.33,0,0.0,0,CZE
+Peru,Americas,4512091,13684.675,0,0.0,0,221043,670.399,0,0.0,0,PER
+Switzerland,Europe,4406991,50920.688,0,0.0,0,14024,162.041,0,0.0,0,CHE
+Philippines,Western Pacific,4165499,3801.294,2027,1.85,0,66484,60.671,1,0.001,0,PHL
+South Africa,Africa,4072533,6866.672,0,0.0,0,102595,172.985,0,0.0,0,ZAF
+Denmark,Europe,3414333,58637.678,59,1.013,0,8754,150.341,7,0.12,0,DNK
+Romania,Europe,3407485,17629.021,0,0.0,0,68233,353.011,0,0.0,0,ROU
+Sweden,Europe,2712743,26266.953,0,0.0,0,24536,237.577,0,0.0,0,SWE
+Serbia,Europe,2544001,36727.434,281,4.057,0,18057,260.687,0,0.0,0,SRB
+Singapore,Western Pacific,2506870,42849.974,0,0.0,0,1841,31.468,0,0.0,0,SGP
+Iraq,Eastern Mediterranean,2465545,6129.767,0,0.0,0,25375,63.087,0,0.0,0,IRQ
+New Zealand,Western Pacific,2345892,48647.421,11979,248.412,0,3138,65.074,61,1.265,0,NZL
+Hungary,Europe,2203171,22551.463,0,0.0,0,48797,499.482,0,0.0,0,HUN
+Bangladesh,South-East Asia,2042854,1240.428,335,0.203,0,29462,17.889,0,0.0,0,BGD
+Slovakia,Europe,1866857,34204.845,0,0.0,0,21167,387.825,0,0.0,0,SVK
+Georgia,Europe,1845538,46263.651,0,0.0,0,17101,428.685,0,0.0,0,GEO
+Jordan,Eastern Mediterranean,1746997,17122.161,0,0.0,0,14122,138.408,0,0.0,0,JOR
+Ireland,Europe,1713772,34520.953,39,0.786,0,9063,182.558,5,0.101,0,IRL
+Pakistan,Eastern Mediterranean,1580631,715.566,0,0.0,0,30656,13.878,0,0.0,0,PAK
+Kazakhstan,Europe,1502857,8003.837,0,0.0,0,19072,101.573,0,0.0,0,KAZ
+Norway,Europe,1485883,27682.55,184,3.428,0,5566,103.697,0,0.0,0,NOR
+Finland,Europe,1482363,26828.682,63,1.14,0,9974,180.515,0,0.0,0,FIN
+Slovenia,Europe,1344559,64153.062,0,0.0,0,9410,448.98,0,0.0,0,SVN
+Lithuania,Europe,1321478,47295.47,104,3.722,0,9692,346.875,1,0.036,0,LTU
+Bulgaria,Europe,1298270,18676.161,0,0.0,0,38366,551.911,0,0.0,0,BGR
+Morocco,Eastern Mediterranean,1275168,3454.751,32,0.087,0,16297,44.153,0,0.0,0,MAR
+Croatia,Europe,1274014,31393.844,23,0.567,0,18275,450.327,2,0.049,0,HRV
+Guatemala,Americas,1259507,7030.238,0,0.0,0,20205,112.779,0,0.0,0,GTM
+Puerto Rico,Americas,1252713,43788.094,0,0.0,0,5938,207.56,0,0.0,0,PRI
+Lebanon,Eastern Mediterranean,1238552,18146.099,0,0.0,0,10936,160.224,0,0.0,0,LBN
+Costa Rica,Americas,1235961,24262.512,0,0.0,0,9386,184.252,0,0.0,0,CRI
+Bolivia (Plurinational State of),Americas,1202710,10303.331,0,0.0,0,22390,191.81,0,0.0,0,BOL
+Tunisia,Eastern Mediterranean,1153361,9758.847,0,0.0,0,29423,248.955,0,0.0,0,TUN
+Cuba,Americas,1114729,9841.677,0,0.0,0,8530,75.309,0,0.0,0,CUB
+Ecuador,Americas,1067327,6049.559,0,0.0,0,36034,204.239,0,0.0,0,ECU
+United Arab Emirates,Eastern Mediterranean,1067030,10788.54,0,0.0,0,2349,23.75,0,0.0,0,ARE
+Panama,Americas,1042631,24164.248,0,0.0,0,8634,200.104,0,0.0,0,PAN
+Uruguay,Americas,1038774,29903.706,0,0.0,0,7634,219.764,0,0.0,0,URY
+Mongolia,Western Pacific,1010034,30809.782,0,0.0,0,2136,65.156,0,0.0,0,MNG
+Nepal,South-East Asia,1003371,3443.655,2,0.007,0,12031,41.291,0,0.0,0,NPL
+Belarus,Europe,994037,10519.666,0,0.0,0,7118,75.328,0,0.0,0,BLR
+Latvia,Europe,975708,51146.448,0,0.0,0,7368,386.229,0,0.0,0,LVA
+Saudi Arabia,Eastern Mediterranean,841469,2417.051,0,0.0,0,9646,27.707,0,0.0,0,SAU
+Azerbaijan,Europe,831950,8205.303,12,0.118,0,10283,101.419,1,0.01,0,AZE
+Paraguay,Americas,735759,10315.529,0,0.0,0,19961,279.858,0,0.0,0,PRY
+"occupied Palestinian territory, including east Jerusalem",Eastern Mediterranean,703228,13784.962,0,0.0,0,5708,111.891,0,0.0,0,PSE
+Bahrain,Eastern Mediterranean,696614,40939.365,0,0.0,0,1536,90.269,0,0.0,0,BHR
+Sri Lanka,South-East Asia,672544,3140.784,5,0.023,0,16879,78.825,0,0.0,0,LKA
+Kuwait,Eastern Mediterranean,665982,15594.683,8,0.187,0,2570,60.179,0,0.0,0,KWT
+Dominican Republic,Americas,662418,6106.411,0,0.0,0,4384,40.413,0,0.0,0,DOM
+Cyprus,Europe,660854,74420.076,0,0.0,0,1364,153.603,0,0.0,0,CYP
+Myanmar,South-East Asia,640552,1177.273,161,0.296,0,19494,35.828,0,0.0,0,MMR
+Republic of Moldova,Europe,620736,15387.746,0,0.0,0,12124,300.548,0,0.0,0,MDA
+Estonia,Europe,601588,45267.033,0,0.0,0,2898,218.063,0,0.0,0,EST
+Venezuela (Bolivarian Republic of),Americas,552695,1943.649,0,0.0,0,5856,20.594,0,0.0,0,VEN
+Egypt,Eastern Mediterranean,516023,504.252,0,0.0,0,24830,24.264,0,0.0,0,EGY
+Qatar,Eastern Mediterranean,514524,17858.887,0,0.0,0,690,23.95,0,0.0,0,QAT
+Libya,Eastern Mediterranean,507266,7382.396,0,0.0,0,6437,93.68,0,0.0,0,LBY
+Ethiopia,Africa,500920,435.721,0,0.0,0,7574,6.588,0,0.0,0,ETH
+Réunion,Africa,494595,55242.753,0,0.0,0,921,102.869,0,0.0,0,REU
+Honduras,Americas,472619,4771.709,0,0.0,0,11116,112.231,0,0.0,0,HND
+Armenia,Europe,449245,15160.632,12,0.405,0,8751,295.319,0,0.0,0,ARM
+Bosnia and Herzegovina,Europe,403047,12284.966,0,0.0,0,16350,498.352,0,0.0,0,BIH
+Oman,Eastern Mediterranean,399449,7822.171,0,0.0,0,4628,90.627,0,0.0,0,OMN
+Luxembourg,Europe,382785,61137.216,0,0.0,0,1000,159.717,0,0.0,0,LUX
+North Macedonia,Europe,348335,16719.705,0,0.0,0,9939,477.061,0,0.0,0,MKD
+Zambia,Africa,347022,1887.635,0,0.0,0,4062,22.095,0,0.0,0,ZMB
+Kenya,Africa,343786,639.349,33,0.061,0,5689,10.58,0,0.0,0,KEN
+Albania,Europe,334090,11609.215,0,0.0,0,3604,125.235,0,0.0,0,ALB
+Botswana,Africa,330077,14036.112,0,0.0,0,2797,118.939,0,0.0,0,BWA
+Brunei Darussalam,Western Pacific,308777,70580.988,0,0.0,0,161,36.802,0,0.0,0,BRN
+Mauritius,Africa,308209,24234.687,0,0.0,0,1053,82.798,0,0.0,0,MUS
+Kosovo[1],Europe,273912,15254.062,3,0.167,0,3209,178.708,0,0.0,0,XKX
+Algeria,Africa,271847,619.933,0,0.0,0,6881,15.692,0,0.0,0,DZA
+Nigeria,Africa,266675,129.366,0,0.0,0,3155,1.531,0,0.0,0,NGA
+Zimbabwe,Africa,265604,1787.024,80,0.538,0,5709,38.411,2,0.013,0,ZWE
+Montenegro,Europe,251133,39985.384,0,0.0,0,2654,422.57,0,0.0,0,MNE
+Mozambique,Africa,233417,746.805,0,0.0,0,2243,7.176,0,0.0,0,MOZ
+Martinique,Americas,230354,61384.355,0,0.0,0,1104,294.192,0,0.0,0,MTQ
+Afghanistan,Eastern Mediterranean,223354,573.757,82,0.211,0,7928,20.366,0,0.0,0,AFG
+Lao People's Democratic Republic,Western Pacific,218491,3003.082,42,0.577,0,671,9.223,0,0.0,0,LAO
+Iceland,Europe,208735,57323.678,0,0.0,0,186,51.08,0,0.0,0,ISL
+Guadeloupe,Americas,203235,50793.004,0,0.0,0,1021,255.171,0,0.0,0,GLP
+El Salvador,Americas,201785,3110.987,0,0.0,0,4230,65.215,0,0.0,0,SLV
+Trinidad and Tobago,Americas,191496,13683.29,0,0.0,0,4390,313.686,0,0.0,0,TTO
+Maldives,South-East Asia,186685,34536.504,0,0.0,0,316,58.46,0,0.0,0,MDV
+Ghana,Africa,171653,552.42,0,0.0,0,1462,4.705,0,0.0,0,GHA
+Namibia,Africa,171310,6742.086,0,0.0,0,4091,161.006,0,0.0,0,NAM
+Uzbekistan,Europe,170975,510.843,0,0.0,0,1016,3.036,0,0.0,0,UZB
+Uganda,Africa,170775,373.352,0,0.0,0,3632,7.94,0,0.0,0,UGA
+Jamaica,Americas,155224,5241.987,0,0.0,0,3558,120.155,0,0.0,0,JAM
+Cambodia,Western Pacific,138920,830.913,22,0.132,0,3056,18.279,0,0.0,0,KHM
+Rwanda,Africa,133194,1028.349,0,0.0,0,1468,11.334,0,0.0,0,RWA
+Cameroon,Africa,125090,471.222,0,0.0,0,1974,7.436,0,0.0,0,CMR
+Malta,Europe,118966,23119.767,0,0.0,0,861,167.326,0,0.0,0,MLT
+Barbados,Americas,107794,37509.874,0,0.0,0,593,206.351,0,0.0,0,BRB
+Angola,Africa,105384,320.645,0,0.0,0,1934,5.884,0,0.0,0,AGO
+French Guiana,Americas,98041,32824.542,0,0.0,0,413,138.274,0,0.0,0,GUF
+Democratic Republic of the Congo,Africa,97644,109.025,0,0.0,0,1468,1.639,0,0.0,0,COD
+Senegal,Africa,89005,531.566,0,0.0,0,1971,11.771,0,0.0,0,SEN
+Malawi,Africa,88770,464.037,31,0.162,0,2686,14.041,0,0.0,0,MWI
+Côte d’Ivoire,Africa,88335,334.878,0,0.0,0,835,3.165,0,0.0,0,CIV
+Kyrgyzstan,Europe,87891,1347.156,0,0.0,0,1024,15.695,0,0.0,0,KGZ
+Suriname,Americas,82563,14074.07,0,0.0,0,1406,239.673,0,0.0,0,SUR
+New Caledonia,Western Pacific,80064,28043.629,0,0.0,0,314,109.983,0,0.0,0,NCL
+French Polynesia,Western Pacific,78601,27981.047,0,0.0,0,649,231.036,0,0.0,0,PYF
+Eswatini,Africa,74882,6454.432,0,0.0,0,1427,123.0,0,0.0,0,SWZ
+Guyana,Americas,73324,9322.206,0,0.0,0,1298,165.024,0,0.0,0,GUY
+Belize,Americas,70782,17801.06,0,0.0,0,688,173.026,0,0.0,0,BLZ
+Fiji,Western Pacific,69047,7702.313,0,0.0,0,885,98.723,0,0.0,0,FJI
+Madagascar,Africa,68289,246.611,0,0.0,0,1425,5.146,0,0.0,0,MDG
+Jersey,Europe,66391,61589.484,0,0.0,0,161,149.356,0,0.0,0,JEY
+Sudan,Eastern Mediterranean,63993,145.939,0,0.0,0,5046,11.508,0,0.0,0,SDN
+Cabo Verde,Africa,63985,11508.363,0,0.0,0,414,74.462,0,0.0,0,CPV
+Mauritania,Africa,63710,1370.208,0,0.0,0,997,21.442,0,0.0,0,MRT
+Bhutan,South-East Asia,62673,8122.389,0,0.0,0,21,2.722,0,0.0,0,BTN
+Syrian Arab Republic,Eastern Mediterranean,57423,328.119,0,0.0,0,3163,18.074,0,0.0,0,SYR
+Burundi,Africa,54188,455.714,0,0.0,0,15,0.126,0,0.0,0,BDI
+Guam,Western Pacific,51675,30617.686,52,30.81,0,413,244.704,0,0.0,0,GUM
+Seychelles,Africa,50937,51793.141,0,0.0,0,172,174.891,0,0.0,0,SYC
+Gabon,Africa,48992,2201.162,0,0.0,0,307,13.793,0,0.0,0,GAB
+Andorra,Europe,48015,62143.273,0,0.0,0,159,205.785,0,0.0,0,AND
+Papua New Guinea,Western Pacific,46864,523.794,0,0.0,0,670,7.489,0,0.0,0,PNG
+Curaçao,Americas,45817,27921.362,0,0.0,0,302,184.042,0,0.0,0,CUW
+Aruba,Americas,44200,41398.947,0,0.0,0,290,271.622,0,0.0,0,ABW
+United Republic of Tanzania,Africa,43078,72.116,0,0.0,0,846,1.416,0,0.0,0,TZA
+Mayotte,Africa,42027,15404.945,0,0.0,0,187,68.545,0,0.0,0,MYT
+Togo,Africa,39506,477.199,2,0.024,0,290,3.503,0,0.0,0,TGO
+Guinea,Africa,38563,293.639,0,0.0,0,468,3.564,0,0.0,0,GIN
+Bahamas,Americas,38084,9684.572,0,0.0,0,844,214.625,0,0.0,0,BHS
+Isle of Man,Europe,38008,44698.466,0,0.0,0,116,136.419,0,0.0,0,IMN
+Guernsey,Europe,35326,54796.178,0,0.0,0,67,103.928,0,0.0,0,GGY
+Faroe Islands,Europe,34658,70926.021,0,0.0,0,28,57.301,0,0.0,0,FRO
+Lesotho,Africa,34490,1609.99,0,0.0,0,706,32.956,0,0.0,0,LSO
+Haiti,Americas,34301,300.819,0,0.0,0,860,7.542,0,0.0,0,HTI
+Mali,Africa,33151,163.702,0,0.0,0,743,3.669,0,0.0,0,MLI
+Cayman Islands,Americas,31472,47888.01,0,0.0,0,37,56.299,0,0.0,0,CYM
+Saint Lucia,Americas,30052,16365.785,0,0.0,0,409,222.734,0,0.0,0,LCA
+Benin,Africa,28014,231.078,0,0.0,0,163,1.345,0,0.0,0,BEN
+Somalia,Eastern Mediterranean,27334,171.985,0,0.0,0,1361,8.563,0,0.0,0,SOM
+Micronesia (Federated States of),Western Pacific,26459,23003.225,0,0.0,0,65,56.51,0,0.0,0,FSM
+United States Virgin Islands,Americas,25270,24199.186,25,23.941,0,132,126.407,1,0.958,0,VIR
+Congo,Africa,25196,456.608,0,0.0,0,389,7.05,0,0.0,0,COG
+San Marino,Europe,24326,71677.765,0,0.0,0,125,368.319,0,0.0,0,SMR
+Timor-Leste,South-East Asia,23457,1779.141,0,0.0,0,138,10.467,0,0.0,0,TLS
+Burkina Faso,Africa,22056,105.515,0,0.0,0,396,1.894,0,0.0,0,BFA
+Solomon Islands,Western Pacific,21611,3146.237,0,0.0,0,153,22.275,0,0.0,0,SLB
+Liechtenstein,Europe,21473,55418.484,0,0.0,0,87,224.534,0,0.0,0,LIE
+Gibraltar,Europe,20550,60995.518,0,0.0,0,113,335.401,0,0.0,0,GIB
+Grenada,Americas,19693,17501.311,0,0.0,0,238,211.512,0,0.0,0,GRD
+Bermuda,Americas,18860,30285.999,0,0.0,0,165,264.962,0,0.0,0,BMU
+South Sudan,Africa,18368,164.092,0,0.0,0,138,1.233,0,0.0,0,SSD
+Tajikistan,Europe,17786,186.482,0,0.0,0,125,1.311,0,0.0,0,TJK
+Equatorial Guinea,Africa,17130,1220.968,0,0.0,0,183,13.044,0,0.0,0,GNQ
+Monaco,Europe,16840,42911.018,2,5.096,0,67,170.727,0,0.0,0,MCO
+Tonga,Western Pacific,16819,15912.768,0,0.0,0,12,11.353,0,0.0,0,TON
+Samoa,Western Pacific,16771,8452.529,0,0.0,0,31,15.624,0,0.0,0,WSM
+Marshall Islands,Western Pacific,16098,27195.324,0,0.0,0,17,28.719,0,0.0,0,MHL
+Nicaragua,Americas,15821,238.824,0,0.0,0,245,3.698,0,0.0,0,NIC
+Dominica,Americas,15760,21891.625,0,0.0,0,74,102.791,0,0.0,0,DMA
+Djibouti,Eastern Mediterranean,15690,1588.057,0,0.0,0,189,19.13,0,0.0,0,DJI
+Central African Republic,Africa,15367,318.173,0,0.0,0,113,2.34,0,0.0,0,CAF
+Northern Mariana Islands (Commonwealth of the),Western Pacific,14013,24346.3,0,0.0,0,41,71.234,0,0.0,0,MNP
+Gambia,Africa,12626,522.455,0,0.0,0,372,15.393,0,0.0,0,GMB
+Saint Martin,Americas,12324,31878.735,0,0.0,0,46,118.989,0,0.0,0,MAF
+Vanuatu,Western Pacific,12019,3913.135,0,0.0,0,14,4.558,0,0.0,0,VUT
+Greenland,Europe,11971,21086.099,0,0.0,0,21,36.99,0,0.0,0,GRL
+Yemen,Eastern Mediterranean,11945,40.049,0,0.0,0,2159,7.239,0,0.0,0,YEM
+Sint Maarten,Americas,11051,25770.72,0,0.0,0,92,214.542,0,0.0,0,SXM
+Eritrea,Africa,10189,287.304,0,0.0,0,103,2.904,0,0.0,0,ERI
+Bonaire,Americas,9864,47162.324,0,0.0,0,33,157.781,0,0.0,0,BES
+Saint Vincent and the Grenadines,Americas,9631,8681.269,0,0.0,0,124,111.772,0,0.0,0,VCT
+Guinea-Bissau,Africa,9614,488.516,0,0.0,0,177,8.994,0,0.0,0,GNB
+Niger,Africa,9513,39.299,0,0.0,0,315,1.301,0,0.0,0,NER
+Comoros,Africa,9109,1047.492,0,0.0,0,160,18.399,0,0.0,0,COM
+Antigua and Barbuda,Americas,9106,9298.573,0,0.0,0,146,149.088,0,0.0,0,ATG
+American Samoa,Western Pacific,8332,15095.023,0,0.0,0,34,61.598,0,0.0,0,ASM
+Liberia,Africa,8090,159.955,0,0.0,0,294,5.813,0,0.0,0,LBR
+Sierra Leone,Africa,7762,97.305,0,0.0,0,125,1.567,0,0.0,0,SLE
+Chad,Africa,7698,46.865,0,0.0,0,194,1.181,0,0.0,0,TCD
+British Virgin Islands,Americas,7305,24159.143,0,0.0,0,64,211.661,0,0.0,0,VGB
+Cook Islands,Western Pacific,7144,40674.106,0,0.0,0,2,11.387,0,0.0,0,COK
+Saint Kitts and Nevis,Americas,6607,12421.041,1,1.88,0,46,86.479,0,0.0,0,KNA
+Sao Tome and Principe,Africa,6588,3006.037,0,0.0,0,80,36.503,0,0.0,0,STP
+Turks and Caicos Islands,Americas,6588,17015.342,0,0.0,0,38,98.146,0,0.0,0,TCA
+Palau,Western Pacific,6013,33235.684,0,0.0,0,9,49.746,0,0.0,0,PLW
+Saint Barthélemy,Americas,5507,55710.673,0,0.0,0,5,50.582,0,0.0,0,BLM
+Nauru,Western Pacific,5393,49778.475,0,0.0,0,1,9.23,0,0.0,0,NRU
+Kiribati,Western Pacific,5081,4253.698,0,0.0,0,24,20.092,0,0.0,0,KIR
+Anguilla,Americas,3904,26023.197,0,0.0,0,12,79.989,0,0.0,0,AIA
+Wallis and Futuna,Western Pacific,3550,31566.779,0,0.0,0,8,71.136,0,0.0,0,WLF
+Saint Pierre and Miquelon,Americas,3426,59119.931,0,0.0,0,2,34.513,0,0.0,0,SPM
+Tuvalu,Western Pacific,2943,24957.598,0,0.0,0,1,8.48,0,0.0,0,TUV
+"Saint Helena, Ascension and Tristan da Cunha",Africa,2166,35677.813,0,0.0,0,0,0.0,0,0.0,0,SHN
+Falkland Islands (Malvinas),Americas,1923,55211.025,0,0.0,0,0,0.0,0,0.0,0,FLK
+Montserrat,Americas,1403,28065.613,0,0.0,0,8,160.032,0,0.0,0,MSR
+Sint Eustatius,Americas,1220,38865.881,0,0.0,0,6,191.144,0,0.0,0,BES
+Saba,Americas,837,43300.569,0,0.0,0,2,103.466,0,0.0,0,BES
+Niue,Western Pacific,820,50679.852,0,0.0,0,0,0.0,0,0.0,0,NIU
+Holy See,Europe,26,3213.844,0,0.0,0,0,0.0,0,0.0,0,VAT
+Tokelau,Western Pacific,19,1407.407,0,0.0,0,0,0.0,0,0.0,0,TKL
+Pitcairn Islands,Western Pacific,4,8000.0,0,0.0,0,0,0.0,0,0.0,0,PCN
+Democratic People's Republic of Korea,South-East Asia,0,0.0,0,0.0,0,0,0.0,0,0.0,0,PRK
+Turkmenistan,Europe,0,0.0,0,0.0,0,0,0.0,0,0.0,0,TKM

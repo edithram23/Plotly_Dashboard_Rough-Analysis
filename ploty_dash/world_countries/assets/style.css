@@ -1,0 +1,56 @@
+body {
+   background-image: url(bgimg.jpg);
+    margin-top: 1%;
+    margin-bottom: 5%;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+
+@font-face {
+    font-family: "Headbears";
+    src: url("Headbears.otf") format(opentype);
+}
+
+.flex_display{
+    display: flex;
+    flex-direction: column;
+}
+
+.title_text{
+    font-family: "Headbears";
+    text-align: center;
+    font-size: 80px;
+}
+
+.mainContainer {
+    display: flex;
+    flex-direction: column;
+}
+
+
+.container{
+    border: 1px solid rgb(0, 0, 0);
+    border-radius: 10px;
+    padding: 40px;
+    background-color:white;
+    
+}
+
+.dropdown {
+    border: 0px solid grey;
+    border-radius: 10px;
+    padding: 0px;
+    /* background-color: black; */
+}
+
+.dropdownboxparent{
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.subheading {
+    text-align: center;
+    font-size: 25px;
+}

@@ -1,0 +1,155 @@
+@import url('https://fonts.googleapis.com/css2?family=PT+Serif:ital,wght@0,400;1,400;1,700&display=swap');
+
+body {
+  background-color: rgb(191, 240, 223);
+}
+
+.row {
+  display: flex;
+  flex-direction: column;
+}
+
+.title {
+  background-color: rgb(191, 240, 223);
+  padding: 20px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  column-gap: 20px;
+  flex-wrap: wrap;
+}
+
+
+
+.heading {
+  color: black;
+  font-size: 70px;
+  font-weight: bold;
+  font-family: 'PT Serif', serif;
+  font-style: italic;
+}
+
+.time {
+  font-family: 'PT Serif', serif;
+  column-gap: 10px;
+  display: flex;
+  flex-direction: row;
+  font-size: 18px;
+  font-style: italic;
+  margin-left: 1300px;
+  margin-top: -60px;
+}
+
+.dropdownboxparent{
+    
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.dropdown {
+  border: 0px solid grey;
+  border-radius: 10px;
+  padding: 0px;
+  /* background-color: black; */
+}
+
+.content {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 100px;
+  height: 400px;
+  flex-direction: column;
+  column-gap: 100px;
+}
+
+
+
+
+.dabbha {
+  border: 1px solid rgb(0, 0, 0);
+  display: flex;
+  flex-direction: row;
+  padding: 40px;
+  background-color: white;
+  column-gap: 150px;
+  row-gap: 150px;
+  flex-wrap: wrap;
+}
+
+
+.temp_imge {
+  display: flex;
+  flex-direction: column;
+}
+
+.weather_image {
+  height: 200px;
+}
+
+
+.weather_dabbha {
+  margin-top: -30px;
+  margin-bottom: 100px;
+}
+
+.temp {
+  font-size: 100px;
+  font-family: 'PT Serif', serif;
+  font-weight: bold;
+  margin-top: -150px;
+}
+
+.location_time{
+  font-size: 20px;
+  font-style: italic;
+  font-weight: bold;
+  margin-top: -20px;
+  margin-left: 40px;
+}
+
+
+.desc{
+  display: flex;
+  flex-direction: column;
+  row-gap: 70px;
+}
+
+.weather_desc {
+  
+  font-family: 'PT Serif', serif;
+  display: flex;
+  flex-direction: column;
+  font-size: 21px;
+  font-style: italic;
+}
+
+.content2{
+  display: flex;
+  flex-direction: row; 
+  width : 100px;
+  margin-left: 2px;
+}
+
+.hourly{
+   
+    
+
+    display: flex;
+    flex-direction: row;
+    
+}
+
+.icon{
+  height: 100px;
+}
+
+.weathers_hours{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  row-gap: 2px;
+}
